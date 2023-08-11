@@ -1,0 +1,13 @@
+Minimum cost: 1678
+Hubs are opened at:
+Oakland
+Bettendorf
+Nashua
+Norman
+North Charleston
+Arlington
+Anchorage
+Boston
+Kansas City
+Columbus
+Oklahoma City

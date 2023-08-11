@@ -1,0 +1,5 @@
+Minimum cost: 394
+Hubs are opened at:
+Montgomery
+Juneau
+Montpelier

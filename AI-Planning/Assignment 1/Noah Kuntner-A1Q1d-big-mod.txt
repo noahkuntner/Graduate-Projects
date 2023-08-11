@@ -1,0 +1,11 @@
+Maximum demand fulfilled: 1663632
+Hubs are opened at:
+Oakland
+Bettendorf
+Warren city
+Nashua
+Buffalo
+North Charleston
+Anchorage
+Dededo
+New Orleans
